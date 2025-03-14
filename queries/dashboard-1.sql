@@ -1,4 +1,3 @@
-'''sql
 ----DAU/WAU/MAU feed--------
 
 WITH first_visits AS (
@@ -29,9 +28,8 @@ SELECT
 FROM dau_data
 WHERE row_num = 1
 ORDER BY user_id, time;
-'''
 
-'''sql
+
 ----number of posts published -----
 
 WITH first_post AS (
@@ -62,10 +60,12 @@ SELECT
 FROM dau_data
 WHERE row_num = 1
 ORDER BY post_id, time;
-'''
 
-'''sql
+
+
+    
 ——top 100 posts——
+    
 SELECT 
     post_id,
     COUNT(CASE WHEN action = 'view' THEN 1 END) AS views,
@@ -111,11 +111,5 @@ SELECT
 FROM dau_data
 WHERE row_num = 1
 ORDER BY post_id, time;
-'''
-  
-  
-  
-  
-  
-  
-  '''
+
+
