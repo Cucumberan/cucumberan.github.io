@@ -15,6 +15,7 @@ Here you can find a collection of my work in the field of data visualization. I 
 This dashboard provides insights into the key metrics of the news feed feature of the product. The primary focus of the analysis is to understand how users interact with the news feed and to track key events and user activities within it.
 
 ![News Feed Dashboard](assets/feed-main-dashboard.jpg)
+
 [SQL queries]()
 
 
