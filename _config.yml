@@ -1,6 +1,4 @@
-remote_theme: pages-themes/primer@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-primer
 title: Welcome to my  small Data Viz Portfolio.
 description: Here you can find a collection of my work in the field of data visualization. I specialize in creating clear and insightful charts, graphs, and interactive data visualizations that help businesses and individuals make data-driven decisions.
 
