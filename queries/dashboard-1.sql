@@ -63,9 +63,8 @@ ORDER BY post_id, time;
 
 
 
-    
-——top 100 posts——
-    
+ ----top 100 posts--------
+   
 SELECT 
     post_id,
     COUNT(CASE WHEN action = 'view' THEN 1 END) AS views,
