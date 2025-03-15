@@ -16,7 +16,7 @@ This dashboard provides insights into the key metrics of the news feed feature o
 
 ![News Feed Dashboard](assets/feed-main-dashboard.jpg)
 
-[SQL queries](queries/dashboard-1)
+[SQL queries](https://github.com/Cucumberan/cucumberan.github.io/blob/main/queries/dashboard-1.sql)
 
 ---
 
@@ -49,7 +49,7 @@ To better understand these events, we developed a dashboard focused on analyzing
 ![Product Metrics Dashboard](/assets/campaign_retention.jpg)
 ![Product Metrics Dashboard](/assets/users_with_poor_engagement.jpg)
 
-[SQL queries](queries/dashboard-3.sql)
+[SQL queries](https://github.com/Cucumberan/cucumberan.github.io/blob/main/queries/dashboard-3.sql)
 
 ## Insights and Decision-Making  
 
@@ -71,5 +71,5 @@ This chart visualizes the composition of the active user base over time, segment
 By tracking these segments weekly, the dashboard helps identify trends in user retention, acquisition, and churn.
 
 ![Weekly Active Audience Chart](/assets/audience-per-week-retention.jpg)
-[SQL queries](queries/dashboard-4.sql)
+[SQL queries](https://github.com/Cucumberan/cucumberan.github.io/blob/main/queries/dashboard-4.sql)
 
