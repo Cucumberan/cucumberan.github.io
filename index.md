@@ -16,7 +16,7 @@ This dashboard provides insights into the key metrics of the news feed feature o
 
 ![News Feed Dashboard](assets/feed-main-dashboard.jpg)
 
-[SQL queries](queries/dashboard-1.sql)
+[SQL queries](queries/dashboard-1)
 
 ---
 
