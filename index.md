@@ -21,4 +21,16 @@ This dashboard provides insights into the key metrics of the news feed feature o
 
 # Dashboard 2 - Users demographics and geography
 
+---
+layout: default
+title: Dashboard 2 - User Demographics
+---
+
+# Dashboard 2 - User Demographics and Characteristics
+
+This dashboard provides insights into the demographic and technical characteristics of users interacting with the product. Understanding user attributes such as gender, age, location, operating system, and traffic source helps in tailoring content, optimizing user experience, and improving engagement strategies.
+
+![User Demographics Dashboard](/assets/feed-demographics-geography.jpg)
+
+
 
