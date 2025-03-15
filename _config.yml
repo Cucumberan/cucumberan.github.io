@@ -1,2 +1,9 @@
 theme: jekyll-theme-primer
 title: Anna Ogurtsova
+defaults:
+  - scope:
+      path: "queries"
+    values:
+      sitemap: false
+      encoding: "utf-8"
+      content_type: "text/plain"
